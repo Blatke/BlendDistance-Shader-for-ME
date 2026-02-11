@@ -5,6 +5,8 @@ This mod is to make the object's material transparent at its edges beside anothe
 
 ![AI_2026-02-11-23-21-47-411](https://github.com/user-attachments/assets/c0f46036-93db-4cfe-8110-469a2e648404)
 
+![Figure](https://github.com/user-attachments/assets/c712c8a9-6b8c-4624-b1fc-6bea724cfb96)
+
 ## Installation
 Go to the [**Release**](https://github.com/Blatke/BlendDistance-Shader-for-ME/releases) page, and download the **.zipmod** file for the latest version. Drag and drop this .zipmod file into the **/mods/** folder in your game directory. Then, start your Studio.
 
