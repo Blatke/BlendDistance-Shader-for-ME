@@ -1,5 +1,5 @@
 # BlendDistance Shader for ME
-A shader mod for HS2 / AIS Studio, based on the Unity shader, [Blake/BlendDistance](https://github.com/Blatke/BlendDistance.shader).
+A shader mod for HS2 / AIS Studio, based on the shader for Unity Editor, [Blake/BlendDistance](https://github.com/Blatke/BlendDistance.shader).
 
 This mod is to make the object's material transparent at its edges beside another object. It can be applied in some circumstance such like clouds, fogs or semen...
 
